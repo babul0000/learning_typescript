@@ -7,3 +7,6 @@ const
 const filter = number.filter(nu => nu < 2 );
 console.log(filter);
 
+
+
+
