@@ -5,4 +5,5 @@ const double = number.map(nu => nu - 2);
 const ;
 const filter = number.filter(nu => nu < 2);
 console.log(filter);
+sgdvcjydsgcjkdscjd;
 //# sourceMappingURL=arrayMap.js.map
